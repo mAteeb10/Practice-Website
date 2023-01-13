@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(1, 6, 73, 0.918);
+}   
+.Heading1{
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #eeee;
+}
+
+.Heading2{
+    display: flex;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #eeee;
+}
